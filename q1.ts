@@ -11,6 +11,7 @@ const getUser = async (userId: number) => {
   catch(err){
     return "INVALID USER ID"
   }
+  
 };
 
 //test case
